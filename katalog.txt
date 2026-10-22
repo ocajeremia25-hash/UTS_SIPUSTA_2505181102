@@ -1,0 +1,8 @@
+KODE     | JUDUL                               | TAHUN  | STATUS              
+--------------------------------------------------------------------------
+MJ-002   | Info Teknologi Edisi 87             | 2026   | LAYAK DIPINJAM      
+BK-001   | Java How to Program                 | 2022   | LAYAK DIPINJAM      
+BD-002   | Jurnal Rekayasa Perangkat           | 2025   | LAYAK DIPINJAM      
+BD-001   | Panduan Pemrograman Java            | 2024   | LAYAK DIPINJAM      
+BK-002   | Basis Data Relasional               | 2021   | TIDAK LAYAK         
+MJ-001   | Info Teknologi Edisi 88             | 2026   | TIDAK LAYAK         
